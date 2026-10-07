@@ -1,0 +1,9 @@
+# Arduino build/editor files
+*.hex
+*.elf
+*.eep
+*.map
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
